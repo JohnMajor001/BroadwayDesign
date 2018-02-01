@@ -18,6 +18,14 @@ h5 {
 }
 li {
   font-size: 18px;
+  list-style-type: none;
+}
+p {
+  background-color: dimgray;
+  font-size: 11px;
+}
+a {
+  color: white;
 }
 .bold {
   font-weight: bold;
